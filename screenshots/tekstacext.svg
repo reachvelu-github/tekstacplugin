@@ -1,11 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="207.25" height="28" role="img" aria-label="VS MARKETPLACE: V1.4.0">
-<title>Tekstac VScode Marketplace: V1.4.0</title>
-<g shape-rendering="crispEdges">
-<rect width="131.5" height="28" fill="#555"/>
-<rect x="131.5" width="75.75" height="28" fill="#007ec6"/>
-</g>
-<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-<text transform="scale(.1)" x="657.5" y="175" textLength="1075" fill="#fff">TEKSTAC EXTENSION</text>
-<text transform="scale(.1)" x="1693.75" y="175" textLength="517.5" fill="#fff" font-weight="bold">V1.4.0</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="50">
+  <!-- First Rectangular Box -->
+  <g shape-rendering="crispEdges">
+    <rect width="200" height="50" fill="#ADD8E6"/> <!-- Light green fill -->
+    <text x="100" y="30" fill="#000" font-size="12" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">TESTING VSCODE Marketplace</text>
+  </g>
+  
+  <!-- Second Rectangular Box -->
+  <g shape-rendering="crispEdges">
+    <rect x="200" width="100" height="50" fill="#007ec6"/> <!-- Blue fill -->
+    <text x="250" y="30" fill="#fff" font-size="12" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">V1.4.0</text>
+  </g>
 </svg>
